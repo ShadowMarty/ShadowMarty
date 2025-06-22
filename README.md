@@ -10,7 +10,7 @@
 - 💻 Tech stack: Python, React, Supabase, LLM APIs  
 - 🚧 Current project: Full-stack Notion inspired app with custom AI features
 - 📚 Learning: React, NextJS, LLMs, Agentic RAG
-- 🎵 Fun fact: I code with lo-fi, but deploy with heavy metal
+- 🎵 Fun fact: I code with lo-fi, but deploy with heavy metal <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" align="center" width="20">
 <!--[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/) &nbsp; -->
 
 

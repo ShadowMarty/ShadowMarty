@@ -1,7 +1,7 @@
 ## Hey there! <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"> I'm Shashank A
 <img src="https://komarev.com/ghpvc/?username=ShadowMarty&label=Profile%20Visits&color=blue&style=for-the-badge&border_radius=10" width="150" align="right" alt="Profile views" height="auto"/>
 
-#### **A passionate Coder || DevOps Engineer || Kafka Admin from India**
+#### **A passionate Coder || Problem-Solver || AI - enthusiast**
 
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="right" alt="Side gif" width="225" height="auto"/>
 
@@ -10,7 +10,9 @@
 - 💻 Tech stack: Python, React, Supabase, LLM APIs  
 - 🚧 Current project: Full-stack Notion inspired app with custom AI features
 - 📚 Learning: React, NextJS, LLMs, Agentic RAG
-- 🎵 Fun fact: I code with lo-fi, but deploy with heavy metal 
+- 🎵 Fun fact: I code with lo-fi, but deploy with heavy metal
+<!--[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/) &nbsp; -->
+
 
 #### 📫 Connect with me:
   
@@ -18,7 +20,6 @@
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/799125921684389940)  &nbsp; 
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/its_amazing_spider/)  &nbsp; 
 <a href="mailto:shashank2k6.dev@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-<!--[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/) &nbsp; -->
 </br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" align="right" alt="Side gif" width="50" height="auto"/>

@@ -51,6 +51,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" align="right" width="150">
 <p align="center"> Last updated: Sunday, 22nd June, 05:23 IST</br></p>
 <p align="center">
-  <img alt="Stars" src="https://img.shields.io/github/stars/Shadowmarty/ShadowMarty?style=flat-square&labelColor=343b41"/> 
-  <img alt="Forks" src="https://img.shields.io/github/forks/Shadowmarty/ShadowMarty?style=flat-square&labelColor=343b41"/>
+  <img alt="Stars" src="https://img.shields.io/github/stars/ShadowMarty/ShadowMarty?style=flat-square&labelColor=343b41"/> 
+  <img alt="Forks" src="https://img.shields.io/github/forks/ShadowMarty/ShadowMarty?style=flat-square&labelColor=343b41"/>
 </p>
